@@ -2,7 +2,7 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name><![CDATA[xsi-overlay]]></name>
+    <name><![CDATA[xsi]]></name>
     <description lang="en"><![CDATA[Xsi Overlay]]></description>
     <homepage>https://github.com/zolech/gentoo-ebuilds</homepage>
     <owner type="person">
